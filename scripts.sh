@@ -1,4 +1,4 @@
 date
 
-ps -ef grep | java
+ps -ef | grep java
 ls -ltrh
