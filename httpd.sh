@@ -1,3 +1,3 @@
 
-apt-get -y  update
-apt-get -y install httpd
+sudo apt-get -y  update
+sudo apt-get -y install httpd
